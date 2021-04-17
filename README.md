@@ -29,10 +29,6 @@ If I have to select one thing <b>I can't live without</b> is <b>learning</b>. I 
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
-
-<br />
-
 ## What i'm up to
 
 - 🔭 I’m currently working @ [Ingenios Agency](https://www.ingenious.agency/).
