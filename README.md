@@ -36,9 +36,9 @@ If I have to select one thing <b>I can't live without</b> is <b>learning</b>. I 
 ## What i'm up to
 
 - 🔭 I’m currently working @ [Ingenios Agency](https://www.ingenious.agency/).
-- 🌱 I’m currently working with [Flutter and Dart](https://flutter.dev/).
-- 👯 I’m looking to collaborate on amazing Flutter teams to learn more and more!
-- 📫 How to reach me: maurodbdev@gmail.com, linkedIn, twitter.
+- ❤ Totally devoted to [Flutter and Dart](https://flutter.dev/).
+- 🌱 I’m looking to collaborate on amazing Flutter teams to learn more and more!
+- 📫 How to reach me: maurodbdev@gmail.com, LinkedIn, Twitter.
 - 💬 Ask me about what ever interesting you want to talk about!
 <br />
 
