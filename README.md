@@ -12,7 +12,7 @@ I sang in Argentina and Latin America's major theaters for the most renowned con
 
 Before Coding as a profession, <b>I was an Opera Singer from the Teatro Colón of Buenos Aires till I accepted the love I have for creation and technology</b> and decided to make a huge career change. It took me a lot of Self-taught hours, Russian/German discipline cultivated during my previous career, and studying under the bridge to bring me where I am now: working full time for a Software Factory and every day becoming more passionate about coding.
 
-If I have to select one thing <b>I can't live without is learning</b>. I love to learn. And teach. So <b>my focus is to specialize, learn from the best people I can reach, create the things I love, and help others do the same</b>. ❤️
+If I have to select one thing <b>I can't live without</b> is <b>learning</b>. I love to learn. And teach. So <b>my focus is to specialize, learn from the best people I can reach, create the things I love, and help others do the same</b>. ❤️
 </p>
 
 <br/>
