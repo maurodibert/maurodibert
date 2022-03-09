@@ -1,10 +1,10 @@
 
-## Alo! 👋 It's [mau!](https://twitter.com/maurodibert)
+## Alo! 👋 It's [Mau!](https://twitter.com/maurodibert)
 ---
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1f_TBuPWMKcurEqC6uFLXu-yZ1-vaF2nlw&usqp=CAU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-In fact, my name is Mauro, but everyone calls me Mau. I have three years of experience as a professional developer, now <b>devoted to Dart and Flutter!</b>.
+In fact, my name is Mauro, but everyone calls me Mau. I have 4 years of experience as a professional developer, now <b>devoted to Dart and Flutter!</b>.
 
 I have loved computers since I'm 5, exploring the first 3dStudio versions since 10, and designing with Illustrator and Photoshop as a side job hobby from 12. Nevertheless, life took me to another path, and I become a professional musician and opera singer.
 
