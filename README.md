@@ -33,10 +33,10 @@ If I have to select one thing <b>I can't live without</b> is <b>learning</b>. I 
 
 ## What i'm up to
 
-- 🔭 Currently working @ [The Bridge](https://thebridge.social/).
+- 🔭 Currently working @ [PairTree Family](https://pairtreefamily.com).
 - ❤ Totally devoted to [Flutter and Dart](https://flutter.dev/).
 - 🌱 Looking to collaborate on amazing Flutter teams to learn more and more!
-- 💬 Contact for offering me excellent jobs, open-source projects where I could collaborate or talk about programming: [Telegram](https://t.me/maurodibert), [Gmail](maurodbdev@gmail.com), [LinkedIn](https://linkedin.maurodibert.com), [Twitter](https://twitter.com/maurodibert).
+- 💬 Contact for offering me excellent jobs, open-source projects where I could collaborate or talk about programming:, [Gmail](maurodibert@gmail.com), [LinkedIn](https://linkedin.maurodibert.com), [Twitter](https://twitter.com/maurodibert).
 <br />
 
 ## Languages and Tools
